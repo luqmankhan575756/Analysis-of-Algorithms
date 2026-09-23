@@ -2,7 +2,7 @@
 
 A comprehensive repository dedicated to the design, implementation, and asymptotic complexity analysis of fundamental computer science algorithms and data structures.
 
----
+---------
 
 ## 📌 Repository Overview
 
